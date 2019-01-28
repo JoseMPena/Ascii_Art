@@ -7,5 +7,5 @@ gem "artii"
 group :development, :test do
   gem "awesome_print", "~> 1.6"
   gem "rack-test"
-  gem "rspec", "~> 3.4"
+  gem "rspec", "~> 3.8"
 end
