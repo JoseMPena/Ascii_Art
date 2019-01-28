@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     artii (2.1.1)
-    awesome_print (1.6.1)
+    awesome_print (1.8.0)
     backports (3.6.8)
     diff-lcs (1.2.5)
     multi_json (1.11.3)
@@ -42,7 +42,7 @@ PLATFORMS
 
 DEPENDENCIES
   artii
-  awesome_print (~> 1.6)
+  awesome_print (~> 1.8)
   rack-test
   rspec (~> 3.4)
   sinatra (~> 1.4)
